@@ -22,13 +22,6 @@ Nosso site é mais do que apenas pixels na tela, é uma experiência interativa 
 
 Se você é um entusiasta da programação e deseja contribuir com seu toque especial para tornar nosso site ainda mais incrível, sinta-se à vontade para mergulhar no código! Faça um fork deste repositório, explore suas ideias e envie um pull request. Estamos sempre abertos a novas sugestões e melhorias!
 
-## Contato e Aventuras Futuras 🌟
-
-Para mais informações sobre o Escritório da Índia ou para embarcar em uma jornada gastronômica conosco, entre em contato:
-
-- **Telefone**: (XX) XXXX-XXXX
-- **Endereço**: Rua do Escritório, 123 - Bairro Centro, Cidade - Estado
-
 Aqui no Escritório da Índia, a jornada pelo sabor é interminável e mal podemos esperar para compartilhar essa aventura com você!
 
 --- 
